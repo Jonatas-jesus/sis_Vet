@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ca_sisVet_menuInterativo", "ca_sisVet_menuInterativo\ca_sisVet_menuInterativo.csproj", "{E5BA2DBC-29BD-408C-84A1-3935B9F3BE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5BA2DBC-29BD-408C-84A1-3935B9F3BE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BA2DBC-29BD-408C-84A1-3935B9F3BE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BA2DBC-29BD-408C-84A1-3935B9F3BE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BA2DBC-29BD-408C-84A1-3935B9F3BE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FF76D7-E705-4134-A066-7DB00337142B}
+	EndGlobalSection
+EndGlobal
